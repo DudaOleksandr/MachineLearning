@@ -1,0 +1,2 @@
+Dev-Data: Prec: 0.929, Rec: 0.926, F1: 0.928
+Test-Data: Prec: 0.885, Rec: 0.887, F1: 0.886
